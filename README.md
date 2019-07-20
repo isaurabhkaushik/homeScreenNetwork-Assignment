@@ -13,4 +13,4 @@ settings.py contains configuration:
 url.py contains mapping:
     1) Here i map the url path with method to be called from views.py for this type of request.
     
-API URL : "http://127.0.0.1:8000/v1/time/"
+API URL : http://127.0.0.1:8000/v1/time/
